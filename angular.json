@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "signinpage"
+  "defaultProject": "signinpage",
+  "cli": {
+    "analytics": "07e24f20-c6e0-4178-83ba-a7e751bd9ad3"
+  }
 }
